@@ -1,0 +1,10 @@
+# Data
+logs/
+stores/
+
+# VS Code
+.vscode/
+.idea
+
+# MS OS
+.DS_Store
